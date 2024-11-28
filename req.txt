@@ -1,0 +1,5 @@
+fastapi==0.111.1
+uvicorn==0.32.0
+pydantic==2.8.2
+python-dotenv==1.0.1
+watchdog== 5.0.3
